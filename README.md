@@ -78,8 +78,7 @@ I believe the best way to learn is by building, experimenting, and continuously 
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=uttampreet-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2C6BB3&text_color=48586F&icon_color=5EA0E6&bg_color=FFFFFF00" alt="stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=uttampreet-dev&hide_border=true&background=FFFFFF00&stroke=C7DCF4&ring=3B82D6&fire=5EA0E6&currStreakLabel=2C6BB3&sideLabels=48586F&dates=8CA0BE&currStreakNum=2C3E5A&sideNums=2C3E5A&dayLabels=8CA0BE" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=uttampreet-dev&hide_border=true&background=FFFFFF00&stroke=C7DCF4&ring=3B82D6&fire=5EA0E6&currStreakLabel=2C6BB3&sideLabels=48586F&dates=8CA0BE&currStreakNum=2C3E5A&sideNums=2C3E5A&dayLabels=8CA0BE" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
