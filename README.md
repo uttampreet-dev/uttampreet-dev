@@ -1,11 +1,7 @@
 <!-- ░ dark aesthetic · developer profile ░ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=46&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&height=80&lines=Uttampreet+Kaur" alt="Uttampreet Kaur" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=8FA6C4&center=true&vCenter=true&width=560&lines=aspiring+software+developer;full-stack+%2B+applied+AI;building+%C2%B7+learning+%C2%B7+shipping" alt="tagline" />
+  <img src="./assets/header.svg" alt="Uttampreet Kaur — aspiring software developer" width="100%" />
 </p>
 
 <!-- ────────────────────────────────────────────────

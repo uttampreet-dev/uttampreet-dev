@@ -18,7 +18,7 @@
 
   <!-- CARD 1 -->
   <g>
-    <rect x="20" y="22" width="480" height="256" rx="16" fill="url(#cardbg)" stroke="#1E2A42" stroke-width="1.5"/>
+    <rect x="20" y="22" width="480" height="256" rx="16" fill="none" stroke="#26344F" stroke-width="1.5"/>
     <rect x="20" y="22" width="480" height="120" rx="16" fill="url(#cardglow)"/>
     <rect x="34" y="22" width="452" height="3" rx="1.5" fill="url(#sheenA)"/>
     <circle cx="52" cy="60" r="4" fill="#58A6FF"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
@@ -38,7 +38,7 @@
 
   <!-- CARD 2 -->
   <g>
-    <rect x="540" y="22" width="480" height="256" rx="16" fill="url(#cardbg)" stroke="#1E2A42" stroke-width="1.5"/>
+    <rect x="540" y="22" width="480" height="256" rx="16" fill="none" stroke="#26344F" stroke-width="1.5"/>
     <rect x="540" y="22" width="480" height="120" rx="16" fill="url(#cardglow)"/>
     <rect x="554" y="22" width="452" height="3" rx="1.5" fill="url(#sheenB)"/>
     <circle cx="572" cy="60" r="4" fill="#58A6FF"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" begin="1.1s" repeatCount="indefinite"/></circle>

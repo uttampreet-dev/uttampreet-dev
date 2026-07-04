@@ -8,7 +8,7 @@
     </linearGradient>
   </defs>
 
-  <rect x="1" y="1" width="998" height="338" rx="16" fill="url(#panel)" stroke="#1E2A42" stroke-width="1.5"/>
+  <!-- transparent background (blends into GitHub) -->
   <!-- faint stars -->
   <g fill="#7FA3D8" opacity="0.25">
     <circle cx="860" cy="40" r="1.2"/><circle cx="920" cy="90" r="1"/><circle cx="800" cy="300" r="1.1"/><circle cx="940" cy="250" r="1"/>
