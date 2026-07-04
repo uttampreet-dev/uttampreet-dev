@@ -1,48 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-label="Uttampreet Kaur — aspiring software developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="Uttampreet Kaur — aspiring software developer">
   <defs>
-    <linearGradient id="nm" gradientUnits="userSpaceOnUse" x1="380" y1="0" x2="620" y2="0" spreadMethod="reflect">
-      <stop offset="0" stop-color="#3D82F0"/><stop offset="0.5" stop-color="#EAF4FF"/><stop offset="1" stop-color="#3D82F0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="-240 0" to="240 0" dur="4.5s" repeatCount="indefinite"/>
+    <linearGradient id="nm" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2E7DFF"/><stop offset="0.5" stop-color="#4F9EFF"/><stop offset="1" stop-color="#6FC3FF"/>
     </linearGradient>
-    <linearGradient id="ul" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="120" y2="0">
-      <stop offset="0" stop-color="#58A6FF" stop-opacity="0"/><stop offset="0.5" stop-color="#9FD0FF"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="380 0" to="620 0" dur="3s" repeatCount="indefinite"/>
-    </linearGradient>
-    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
-      <feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <clipPath id="rev">
+      <rect x="278" y="0" width="0" height="170">
+        <animate attributeName="width" values="0;470;470;0" keyTimes="0;0.42;0.9;1" dur="5s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
   </defs>
 
-  <!-- starfield -->
-  <g fill="#CFE0FF">
-    <circle cx="150" cy="46" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
-    <circle cx="250" cy="150" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
-    <circle cx="820" cy="60" r="1.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/></circle>
-    <circle cx="770" cy="168" r="1.2"><animate attributeName="opacity" values="1;0.2;1" dur="2.9s" repeatCount="indefinite"/></circle>
-    <circle cx="880" cy="140" r="1.3"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.1s" repeatCount="indefinite"/></circle>
-  </g>
-  <!-- sparkle -->
-  <path d="M120 150 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5 Z" fill="#9FD0FF">
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
-  </path>
-  <!-- shooting star -->
-  <line x1="700" y1="40" x2="740" y2="58" stroke="#BFE0FF" stroke-width="2" stroke-linecap="round" opacity="0">
-    <animate attributeName="opacity" values="0;0;0.9;0" dur="7s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0 0;0 0;-70 -34;-150 -72" dur="7s" repeatCount="indefinite"/>
-  </line>
-
   <!-- code kicker -->
-  <text x="500" y="52" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="2" fill="#6C7E9E">&lt;/&gt; full-stack &#183; applied AI</text>
+  <text x="500" y="44" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" letter-spacing="2" fill="#7C8DB0">&lt;/&gt; full-stack &#183; applied AI</text>
 
-  <!-- name with glow -->
-  <text x="500" y="130" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-1.5" fill="url(#nm)" filter="url(#glow)">Uttampreet Kaur</text>
+  <!-- typed name: bold italic, blue gradient -->
+  <text x="500" y="104" text-anchor="middle" clip-path="url(#rev)" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-style="italic" font-weight="800" font-size="56" letter-spacing="-1" fill="url(#nm)">Uttampreet Kaur</text>
 
-  <!-- animated underline -->
-  <rect x="380" y="146" width="240" height="2.5" rx="1.25" fill="url(#ul)"/>
-
-  <!-- role line + cursor -->
-  <text x="496" y="184" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="15" letter-spacing="1" fill="#8FA6C4">aspiring software developer</text>
-  <rect x="624" y="172" width="9" height="16" rx="1.5" fill="#58A6FF">
-    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+  <!-- caret rides the typing edge, then blinks -->
+  <rect y="66" width="6" height="42" rx="1.5" fill="#4F9EFF">
+    <animate attributeName="x" values="278;748;748;278" keyTimes="0;0.42;0.9;1" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
   </rect>
+
+  <!-- role -->
+  <text x="500" y="146" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" letter-spacing="1.5" fill="#8090AE">aspiring software developer</text>
 </svg>
