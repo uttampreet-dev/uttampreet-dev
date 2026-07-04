@@ -43,7 +43,7 @@ I believe the best way to learn is by building, experimenting, and continuously 
 
 <p align="center"><b>Backend &amp; Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,supabase,postgres,docker,git,github,vscode,&theme=light" alt="backend and tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,supabase,postgres,docker,git,github,vscode&theme=light" alt="backend and tools" />
 </p>
 
 <p align="center"><b>AI / ML</b></p>
