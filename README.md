@@ -3,12 +3,12 @@
 <h1 align="center">Uttampreet Kaur</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=4F93D9&center=true&vCenter=true&width=560&lines=Aspiring+Software+Developer;Full-Stack+Development;Problem+Solving;Applied+AI+%26+Multi-Agent+Systems;Always+Learning" alt="what I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=4F93D9&center=true&vCenter=true&width=560&lines=Aspiring+Software+Developer;Full-Stack+Development;Applied+AI+%26+Multi-Agent+Systems;Building+Products+That+Solve+Real+Problems;Always+Learning+Something+New" alt="what I do" />
 </p>
 
 <p align="center">
   <a href="https://github.com/uttampreet-dev"><img src="https://img.shields.io/badge/GitHub-EAF2FB?style=for-the-badge&logo=github&logoColor=2F6FB0" alt="github"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-EAF2FB?style=for-the-badge&logo=linkedin&logoColor=2F6FB0" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/uttampreet-kaur/"><img src="https://img.shields.io/badge/LinkedIn-EAF2FB?style=for-the-badge&logo=linkedin&logoColor=2F6FB0" alt="linkedin"/></a>
   <a href="mailto:uttampreetkaur02@gmail.com"><img src="https://img.shields.io/badge/Email-EAF2FB?style=for-the-badge&logo=gmail&logoColor=2F6FB0" alt="email"/></a>
 </p>
 
@@ -21,13 +21,18 @@
 
 ## About Me
 
-I'm an aspiring software developer who loves turning ambitious ideas into real, working products. Most of what I build lives where full-stack engineering meets applied AI — multi-agent systems, retrieval, and tools that actually do something useful. I learn fastest by building, and I care about the small details that make software feel effortless to use.
+I'm an aspiring software developer who loves turning ambitious ideas into real, working products. Most of what I build lives where full-stack engineering meets applied AI — multi-agent systems, retrieval, and developer tools and intelligent systems designed to solve meaningful real-world problems. I learn fastest by building, and I care about the small details that make software feel effortless to use.
 
 - **Building** — AI-powered products and multi-agent systems
 - **Learning** — systems design, algorithms, and everything full-stack
-- **Open to** — internships, collaborations, and open source
-
+- **Open to** — Internships, hackathons, collaborations, and open-source contributions.
+  
+Rather than learning technologies in isolation, I enjoy applying them to solve real-world problems—from AI-powered cybersecurity tools to autonomous multi-agent systems and full-stack web applications.
 <br/>
+
+I believe the best way to learn is by building, experimenting, and continuously improving with every project.
+
+---
 
 ## Tech Stack
 
@@ -87,8 +92,7 @@ I'm an aspiring software developer who loves turning ambitious ideas into real, 
 
 <p align="center">
   <a href="https://github.com/uttampreet-dev"><img src="https://img.shields.io/badge/GitHub-EAF2FB?style=for-the-badge&logo=github&logoColor=2F6FB0" alt="github"/></a>
-  <!-- replace # with your LinkedIn URL -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-EAF2FB?style=for-the-badge&logo=linkedin&logoColor=2F6FB0" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/uttampreet-kaur/"><img src="https://img.shields.io/badge/LinkedIn-EAF2FB?style=for-the-badge&logo=linkedin&logoColor=2F6FB0" alt="linkedin"/></a>
   <a href="mailto:uttampreetkaur02@gmail.com"><img src="https://img.shields.io/badge/Email-EAF2FB?style=for-the-badge&logo=gmail&logoColor=2F6FB0" alt="email"/></a>
 </p>
 
