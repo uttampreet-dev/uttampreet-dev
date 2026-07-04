@@ -1,11 +1,6 @@
 <!-- ░ pastel blue · light · clean ░ -->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-    <img src="./assets/header-light.svg" alt="Uttampreet Kaur" width="620" />
-  </picture>
-</p>
+<h1 align="center">Uttampreet Kaur</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=4F93D9&center=true&vCenter=true&width=560&lines=Aspiring+Software+Developer;Full-Stack+Development;Problem+Solving;Applied+AI+%26+Multi-Agent+Systems;Always+Learning" alt="what I do" />
