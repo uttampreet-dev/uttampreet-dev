@@ -38,12 +38,12 @@ I believe the best way to learn is by building, experimenting, and continuously 
 
 <p align="center"><b>Languages &amp; Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind&theme=light" alt="languages and frontend" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,tailwind&theme=light" alt="languages and frontend" />
 </p>
 
 <p align="center"><b>Backend &amp; Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,supabase,postgres,docker,git,github,vscode,linux&theme=light" alt="backend and tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,supabase,postgres,docker,git,github,vscode,&theme=light" alt="backend and tools" />
 </p>
 
 <p align="center"><b>AI / ML</b></p>
