@@ -1,7 +1,11 @@
 <!-- ░ pastel blue · light · clean ░ -->
 
 <p align="center">
-  <img src="./assets/header.svg" alt="Uttampreet Kaur — aspiring software developer" width="100%" />
+  <img src="./assets/header.svg" alt="Uttampreet Kaur" width="520" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=4F93D9&center=true&vCenter=true&width=560&lines=Aspiring+Software+Developer;Full-Stack+Development;Problem+Solving;Applied+AI+%26+Multi-Agent+Systems;Always+Learning" alt="what I do" />
 </p>
 
 <!-- ────────────────────────────────────────────────

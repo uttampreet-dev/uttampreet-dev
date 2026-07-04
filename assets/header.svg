@@ -1,23 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="Uttampreet Kaur — aspiring software developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 96" width="1000" height="96" role="img" aria-label="Uttampreet Kaur">
   <defs>
     <linearGradient id="nm" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#3B82D6"/><stop offset="0.5" stop-color="#5EA0E6"/><stop offset="1" stop-color="#8FC2F0"/>
+      <stop offset="0" stop-color="#7FB6EC"/><stop offset="1" stop-color="#A7D2F4"/>
     </linearGradient>
-    <clipPath id="rev">
-      <rect x="278" y="0" width="0" height="170">
-        <animate attributeName="width" values="0;470;470;0" keyTimes="0;0.42;0.9;1" dur="5s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
   </defs>
-
-  <text x="500" y="44" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" letter-spacing="2" fill="#9DB0CE">&lt;/&gt; full-stack &#183; applied AI</text>
-
-  <text x="500" y="104" text-anchor="middle" clip-path="url(#rev)" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-style="italic" font-weight="800" font-size="56" letter-spacing="-1" fill="url(#nm)">Uttampreet Kaur</text>
-
-  <rect y="66" width="6" height="42" rx="1.5" fill="#5EA0E6">
-    <animate attributeName="x" values="278;748;748;278" keyTimes="0;0.42;0.9;1" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
-  </rect>
-
-  <text x="500" y="146" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" letter-spacing="1.5" fill="#93A6C4">aspiring software developer</text>
+  <text x="500" y="64" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="56" letter-spacing="-0.5" fill="url(#nm)">Uttampreet Kaur</text>
 </svg>
