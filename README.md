@@ -1,11 +1,20 @@
 <!-- ░ pastel blue · light · clean ░ -->
 
 <p align="center">
-  <img src="./assets/header.svg" alt="Uttampreet Kaur" width="520" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+    <img src="./assets/header-light.svg" alt="Uttampreet Kaur" width="620" />
+  </picture>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=4F93D9&center=true&vCenter=true&width=560&lines=Aspiring+Software+Developer;Full-Stack+Development;Problem+Solving;Applied+AI+%26+Multi-Agent+Systems;Always+Learning" alt="what I do" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/uttampreet-dev"><img src="https://img.shields.io/badge/GitHub-EAF2FB?style=for-the-badge&logo=github&logoColor=2F6FB0" alt="github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-EAF2FB?style=for-the-badge&logo=linkedin&logoColor=2F6FB0" alt="linkedin"/></a>
+  <a href="mailto:uttampreetkaur02@gmail.com"><img src="https://img.shields.io/badge/Email-EAF2FB?style=for-the-badge&logo=gmail&logoColor=2F6FB0" alt="email"/></a>
 </p>
 
 <!-- ────────────────────────────────────────────────
@@ -82,11 +91,10 @@ I'm an aspiring software developer who loves turning ambitious ideas into real, 
 ## Connect
 
 <p align="center">
-  <a href="mailto:uttampreetkaur02@gmail.com"><img src="https://img.shields.io/badge/Email-EAF2FB?style=for-the-badge&logo=gmail&logoColor=2F6FB0" alt="email"/></a>
   <a href="https://github.com/uttampreet-dev"><img src="https://img.shields.io/badge/GitHub-EAF2FB?style=for-the-badge&logo=github&logoColor=2F6FB0" alt="github"/></a>
-  <!-- replace # with your links when ready -->
+  <!-- replace # with your LinkedIn URL -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-EAF2FB?style=for-the-badge&logo=linkedin&logoColor=2F6FB0" alt="linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/X-EAF2FB?style=for-the-badge&logo=x&logoColor=2F6FB0" alt="x"/></a>
+  <a href="mailto:uttampreetkaur02@gmail.com"><img src="https://img.shields.io/badge/Email-EAF2FB?style=for-the-badge&logo=gmail&logoColor=2F6FB0" alt="email"/></a>
 </p>
 
 <br/>
