@@ -5,63 +5,47 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=8FA6C4&center=true&vCenter=true&width=560&lines=aspiring+software+developer;building+%C2%B7+learning+%C2%B7+shipping" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=8FA6C4&center=true&vCenter=true&width=560&lines=aspiring+software+developer;full-stack+%2B+applied+AI;building+%C2%B7+learning+%C2%B7+shipping" alt="tagline" />
 </p>
 
 <!-- ────────────────────────────────────────────────
-     HERO GIF SLOT — when you send your lofi coding gif,
-     this line becomes:
+     HERO GIF SLOT — when you send your lofi coding gif, this becomes:
      <p align="center"><img src="./assets/coding.gif" width="70%"></p>
 ──────────────────────────────────────────────── -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uttampreet-dev&label=visitors&color=58A6FF&style=flat-square&labelColor=161B22" alt="visitors" />
-  <a href="mailto:uttampreetkaur02@gmail.com"><img src="https://img.shields.io/badge/email-161B22?style=flat-square&logo=gmail&logoColor=58A6FF" alt="email"/></a>
-  <a href="https://github.com/uttampreet-dev"><img src="https://img.shields.io/badge/github-161B22?style=flat-square&logo=github&logoColor=58A6FF" alt="github"/></a>
-</p>
 
 <br/>
 
 ## About Me
 
-I'm an aspiring software developer who enjoys building real, useful things — and understanding how they work under the hood. I learn by making: turning ideas into projects, and problems into things I actually know how to solve. Right now I'm sharpening my fundamentals and building side projects along the way.
+I'm an aspiring software developer who loves turning ambitious ideas into real, working products. Most of what I build lives where full-stack engineering meets applied AI — multi-agent systems, retrieval, and tools that actually do something useful. I learn fastest by building, and I care about the small details that make software feel effortless to use.
 
-- **Building** — side projects & experiments
-- **Learning** — data structures, systems, and web development
+- **Building** — AI-powered products and multi-agent systems
+- **Learning** — systems design, algorithms, and everything full-stack
 - **Open to** — internships, collaborations, and open source
 
 <br/>
 
 ## Tech Stack
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=58A6FF)
-![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=58A6FF)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=58A6FF)
-![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=58A6FF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=58A6FF)
-
-**Backend &amp; Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=58A6FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=58A6FF)
-![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=58A6FF)
-![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=58A6FF)
+<p align="center">
+  <img src="./assets/stack.svg" alt="Tech stack" width="100%" />
+</p>
 
 <br/>
 
-## Projects
+## Featured Projects
 
-| Project | Description |
-| :-- | :-- |
-| **[ShadowTrace](https://github.com/uttampreet-dev/ShadowTrace)** | A multi-agent system that maps coordinated bot networks behind misinformation. |
-| **[SheScam](https://github.com/uttampreet-dev/SheScam)** | Detects scam messages over WhatsApp and the web in seconds. |
-| **[codelens-ai](https://github.com/uttampreet-dev/codelens-ai)** | Explains code, spots bugs, and suggests fixes using RAG and Gemini. |
+<p align="center">
+  <img src="./assets/projects.svg" alt="Featured projects" width="100%" />
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://github.com/uttampreet-dev/ShadowTrace"><b>ShadowTrace&nbsp;→</b></a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://github.com/uttampreet-dev/FirstSignal"><b>FirstSignal&nbsp;→</b></a>
+  </sub>
+</p>
 
 <br/>
 
@@ -80,11 +64,16 @@ I'm an aspiring software developer who enjoys building real, useful things — a
 
 ## Connect
 
-- **Email** — uttampreetkaur02@gmail.com
-- **GitHub** — [@uttampreet-dev](https://github.com/uttampreet-dev)
+<p align="center">
+  <a href="mailto:uttampreetkaur02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://github.com/uttampreet-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <!-- replace # with your links when ready -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
+</p>
 
 <br/>
 
 <p align="center">
-  <sub>Thanks for scrolling — always up for a good problem.</sub>
+  <img src="https://komarev.com/ghpvc/?username=uttampreet-dev&label=profile+views&color=58A6FF&style=flat-square&labelColor=161B22" alt="profile views" />
 </p>
