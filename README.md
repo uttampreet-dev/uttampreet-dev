@@ -2,8 +2,12 @@
 
 <h1 align="center">Uttampreet Kaur</h1>
 
+<h3 align="center">
+Building AI-powered products that solve real-world problems.
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=4F93D9&center=true&vCenter=true&width=560&lines=Aspiring+Software+Developer;Full-Stack+Development;Applied+AI+%26+Multi-Agent+Systems;Building+Products+That+Solve+Real+Problems;Always+Learning+Something+New" alt="what I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=4F93D9&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Applied+AI+%26+Multi-Agent+Systems;Developer+Tools+%7C+RAG+%7C+Automation;Hackathons+%7C+Open+Source+%7C+Continuous+Learning;Always+Learning+Something+New" alt="what I do" />
 </p>
 
 <p align="center">
@@ -21,16 +25,19 @@
 
 ## About Me
 
-I'm an aspiring software developer who loves turning ambitious ideas into real, working products. Most of what I build lives where full-stack engineering meets applied AI — multi-agent systems, retrieval, and developer tools and intelligent systems designed to solve meaningful real-world problems. I learn fastest by building, and I care about the small details that make software feel effortless to use.
+I'm a Computer Science student who enjoys building software that is intelligent, useful, and thoughtfully designed.
 
-- **Building** — AI-powered products and multi-agent systems
-- **Learning** — systems design, algorithms, and everything full-stack
-- **Open to** — Internships, hackathons, collaborations, and open-source contributions.
-  
-Rather than learning technologies in isolation, I enjoy applying them to solve real-world problems—from AI-powered cybersecurity tools to autonomous multi-agent systems and full-stack web applications.
-<br/>
+Currently focused on **Full-Stack Development**, **Applied AI**, and **Multi-Agent Systems**, I enjoy taking ideas from concept to working products through continuous learning and hands-on development.
 
-I believe the best way to learn is by building, experimenting, and continuously improving with every project.
+### What I'm focusing on
+
+-  AI-powered applications
+-  Multi-Agent Systems & RAG
+-  Modern Full-Stack Development
+-  Data Structures & Algorithms
+-  Hackathons & Open Source
+
+> *Learning by building. Improving with every project.*
 
 ---
 
@@ -38,7 +45,7 @@ I believe the best way to learn is by building, experimenting, and continuously 
 
 <p align="center"><b>Languages &amp; Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,tailwind&theme=light" alt="languages and frontend" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,nextjs,tailwind&theme=light" alt="languages and frontend" />
 </p>
 
 <p align="center"><b>Backend &amp; Tools</b></p>
