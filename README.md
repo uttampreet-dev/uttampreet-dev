@@ -1,127 +1,109 @@
-<!--
-  DESIGN TOKENS  ·  ink #0D1117  surface #161B22  text #E6EDF3  muted #8B949E  accent #E8B923
-  To re-skin the whole profile, swap the accent hex (E8B923) in the URLs below.
--->
+<!-- ✦ pastel aesthetic · blue-dominant · uttampreet-dev ✦ -->
 
-<!-- ░░░ HERO ░░░ -->
 <p align="center">
-  <img src="./assets/hero.svg" alt="Uttampreet Kaur" width="100%" />
+  <img src="./assets/hero.svg" alt="Uttampreet Kaur — I build AI that protects people" width="100%" />
 </p>
 
-<!-- ░░░ POSITIONING ░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=E8B923&center=true&vCenter=true&width=680&lines=I+build+AI+that+protects+people.;RAG%2C+multi-agent+systems%2C+real+products.;Making+the+complex+legible.;Shipping+%3E+talking." alt="positioning" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=7AA8E8&center=true&vCenter=true&width=560&lines=building+AI+for+trust+%26+safety;making+the+complex+feel+simple;RAG+%C2%B7+multi-agent+systems+%C2%B7+real+products" alt="typing" />
 </p>
 
-<!-- ░░░ PROFILE VIEWS + CONTACT ░░░ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uttampreet-dev&label=PROFILE%20VIEWS&color=E8B923&style=flat-square&labelColor=161B22" alt="profile views" />
-  <a href="mailto:uttampreetkaur02@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=maildotru&logoColor=E8B923&labelColor=161B22" alt="email"/></a>
-  <!-- TODO: add your handles, then uncomment these two lines:
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=E8B923&labelColor=161B22" alt="linkedin"/></a>
-  <a href="X_URL"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=E8B923&labelColor=161B22" alt="x"/></a>
+  <img src="https://komarev.com/ghpvc/?username=uttampreet-dev&label=profile+views&color=A9C7F0&style=flat&labelColor=EAF1FB" alt="profile views" />
+  &nbsp;
+  <a href="mailto:uttampreetkaur02@gmail.com"><img src="https://img.shields.io/badge/email-FFD6E6?style=flat&logo=gmail&logoColor=C77BAE" alt="email"/></a>
+  <!-- add your handles then uncomment:
+  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/linkedin-BFE0FF?style=flat&logo=linkedin&logoColor=4B78A8" alt="linkedin"/></a>
+  <a href="X_URL"><img src="https://img.shields.io/badge/x-DDD6F7?style=flat&logo=x&logoColor=6A5FB0" alt="x"/></a>
   -->
 </p>
 
 <br/>
 
-<!-- ░░░ CURRENTLY ░░░ -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <sub><b>◆ BUILDING</b></sub><br/>
-      Multi-agent misinformation defense
-    </td>
-    <td align="center" width="33%">
-      <sub><b>◆ EXPLORING</b></sub><br/>
-      Agentic RAG · eval pipelines
-    </td>
-    <td align="center" width="33%">
-      <sub><b>◆ OPEN TO</b></sub><br/>
-      AI-for-safety collabs &amp; roles
-    </td>
-  </tr>
-</table>
+## 🌸 &nbsp;who i am
+
+I'm an **AI engineer** who builds products that stand between people and the things that can hurt them — scams, misinformation, and code they don't understand.
+
+> _‹1–2 lines in your own voice — what got you into AI-for-safety, your story›_
+
+I care less about models for their own sake, and more about **who they protect**.
 
 <br/>
 
-<!-- ░░░ SELECTED WORK ░░░ -->
-<h3 align="center">Selected work</h3>
+## 🧠 &nbsp;what i focus on
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/uttampreet-dev/ShadowTrace">ShadowTrace</a></b><br/>
-      <sub>Multi-agent system that maps coordinated bot networks behind misinformation campaigns.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/uttampreet-dev/SheScam">SheScam</a></b><br/>
-      <sub>AI scam-detection for women — verify a suspicious message over WhatsApp or web in seconds.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/uttampreet-dev/codelens-ai">codelens-ai</a></b><br/>
-      <sub>RAG + Gemini code explainer: instant explanations, bug detection, and optimizations.</sub>
-    </td>
-  </tr>
-</table>
+| Applied AI | Trust &amp; Safety | Human-first UX |
+| :-- | :-- | :-- |
+| RAG, multi-agent systems, and LLM pipelines wired into real, shipped products — not demos. | Catching scams, bot networks, and harm before they reach a person. Safety as a feature. | Making intimidating things — code, fraud, support — feel calm, clear, and usable by anyone. |
 
 <br/>
 
-<!-- ░░░ HOW I WORK ░░░ -->
-<h3 align="center">How I work</h3>
+## 🌱 &nbsp;right now
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#161B22','primaryTextColor':'#E6EDF3','primaryBorderColor':'#E8B923','lineColor':'#8B949E','fontFamily':'JetBrains Mono'}}}%%
-flowchart LR
-    A(Find who<br/>gets hurt) --> B(Cut to the<br/>smallest ship)
-    B --> C(Build it<br/>boringly well)
-    C --> D(Measure if<br/>it's actually true)
-    D --> E(Ship,<br/>then listen)
-```
+- 🌷 &nbsp;**Building** — a multi-agent system that defends against misinformation
+- 🌿 &nbsp;**Exploring** — agentic RAG &amp; evaluation pipelines
+- 💌 &nbsp;**Open to** — _‹roles / internships / collabs / open source?›_
 
 <br/>
 
-<!-- ░░░ STACK ░░░ -->
-<h3 align="center">What I build with</h3>
+## 💼 &nbsp;selected work
+
+| Project | What it does |
+| :-- | :-- |
+| **[ShadowTrace](https://github.com/uttampreet-dev/ShadowTrace)** | Multi-agent system that maps the coordinated bot networks behind misinformation campaigns. |
+| **[SheScam](https://github.com/uttampreet-dev/SheScam)** | AI scam-detection for women — verify a suspicious message over WhatsApp or web in seconds. |
+| **[codelens-ai](https://github.com/uttampreet-dev/codelens-ai)** | RAG + Gemini code explainer: instant explanations, bug detection, and optimizations. |
+
+<br/>
+
+## 🧰 &nbsp;toolkit
+
+**craft**
+&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-BFE0FF?style=flat&logo=typescript&logoColor=3F6FA3)
+![React](https://img.shields.io/badge/React-BFE0FF?style=flat&logo=react&logoColor=3F6FA3)
+![Next.js](https://img.shields.io/badge/Next.js-BFE0FF?style=flat&logo=nextdotjs&logoColor=3F6FA3)
+![Tailwind](https://img.shields.io/badge/Tailwind-BFE0FF?style=flat&logo=tailwindcss&logoColor=3F6FA3)
+
+**intelligence**
+&nbsp;
+![Gemini](https://img.shields.io/badge/Gemini-C7EBD8?style=flat&logo=googlegemini&logoColor=3E8768)
+![LangChain](https://img.shields.io/badge/LangChain-C7EBD8?style=flat&logo=langchain&logoColor=3E8768)
+![RAG](https://img.shields.io/badge/RAG-C7EBD8?style=flat&logo=databricks&logoColor=3E8768)
+![Pinecone](https://img.shields.io/badge/Pinecone-C7EBD8?style=flat&logo=pinecone&logoColor=3E8768)
+
+**ground**
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-FFD6E6?style=flat&logo=nodedotjs&logoColor=C05F8E)
+![Python](https://img.shields.io/badge/Python-FFD6E6?style=flat&logo=python&logoColor=C05F8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFD6E6?style=flat&logo=postgresql&logoColor=C05F8E)
+![Docker](https://img.shields.io/badge/Docker-FFD6E6?style=flat&logo=docker&logoColor=C05F8E)
+
+<br/>
+
+## 📊 &nbsp;by the numbers
 
 <p align="center">
-  <sub>CRAFT</sub><br/>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=E8B923&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=E8B923&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=E8B923&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=E8B923&labelColor=161B22"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=uttampreet-dev&show_icons=true&hide_border=true&title_color=7AA8E8&text_color=6E7CA0&icon_color=A79BEA&bg_color=FBFDFF&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=uttampreet-dev&hide_border=true&background=FBFDFF&stroke=E9EEF9&ring=7AA8E8&fire=F7B7D2&currStreakLabel=7AA8E8&sideLabels=6E7CA0&dates=8B98B8&currStreakNum=3D4B6E&sideNums=3D4B6E&dayLabels=8B98B8" alt="streak" />
 </p>
+
 <p align="center">
-  <sub>INTELLIGENCE</sub><br/>
-  <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=E8B923&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=E8B923&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logo=databricks&logoColor=E8B923&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/Pinecone-0D1117?style=flat-square&logo=pinecone&logoColor=E8B923&labelColor=161B22"/>
-</p>
-<p align="center">
-  <sub>GROUND</sub><br/>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=E8B923&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=E8B923&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=E8B923&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=E8B923&labelColor=161B22"/>
+  <img src="https://raw.githubusercontent.com/uttampreet-dev/uttampreet-dev/output/snake.svg" alt="contribution snake" width="100%" />
 </p>
 
 <br/>
 
-<!-- ░░░ PROOF ░░░ -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uttampreet-dev&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&text_color=E6EDF3&icon_color=E8B923&title_color=E8B923&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=uttampreet-dev&hide_border=true&background=0D1117&stroke=161B22&ring=E8B923&fire=E8B923&currStreakLabel=E8B923&sideLabels=E6EDF3&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dayLabels=8B949E" alt="streak"/>
-</p>
+## 💗 &nbsp;beyond the code
 
-<!-- ░░░ CONTRIBUTION SNAKE (generated by the Action in .github/workflows/snake.yml) ░░░ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/uttampreet-dev/uttampreet-dev/output/snake.svg" alt="contribution snake" width="100%"/>
-</p>
+- ☕ &nbsp;_‹interest 1›_
+- 🎧 &nbsp;_‹interest 2›_
+- 🌼 &nbsp;_‹a fun fact about you›_
 
 <br/>
 
-<!-- ░░░ CTA ░░░ -->
+---
+
 <p align="center">
-  <sub>Building AI where trust and safety actually matter? <a href="mailto:uttampreetkaur02@gmail.com">Let's talk →</a></sub>
+  <sub>Building AI where trust &amp; safety actually matter? &nbsp;<a href="mailto:uttampreetkaur02@gmail.com">Let's talk →</a></sub>
 </p>
